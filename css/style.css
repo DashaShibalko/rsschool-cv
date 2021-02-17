@@ -1,0 +1,24 @@
+
+.cv{
+    margin:  0 auto;
+    width: 900px;
+
+}
+.cv-photo{
+    width: 200px;
+    height: 200px;
+    float: left;
+}
+.cv-photo img{
+    width: 215px;
+    height: 200px;
+    border: 1px solid black;
+
+}
+.cv-name{
+    width: 790px;
+    margin-right: 50px;
+ }
+.cv-about{
+    margin-top: 50px;
+}
